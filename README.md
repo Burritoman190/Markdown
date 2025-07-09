@@ -4,14 +4,14 @@ Hello! My name is Luis Maldonado, and this is my course project for learning Git
 
 ---
 
-## ✨ About Me
-- 💻 I am currently studying Java programming.
-- 🌱 I am learning how to use Git and GitHub.
-- 🎓 This repository was created as part of my class project.
+##  About Me
+- I am currently studying Java programming.
+-  I am learning how to use Git and GitHub.
+- This repository was created as part of my class project.
 
 ---
 
-## 📂 Project Overview
+##  Project Overview
 This page demonstrates:
 - Creating a repository.
 - Writing Markdown to create a simple webpage.
@@ -19,14 +19,14 @@ This page demonstrates:
 
 ---
 
-## 📝 Coursework
+##  Coursework
 In this repository, you will find:
 - My sample Java programs.
 - Notes and documentation related to my assignments.
 
 ---
 
-## 📬 Contact
+##  Contact
 Feel free to view my GitHub profile and see other repositories:
 
 [View My GitHub Profile](https://github.com/Burritoman190)
